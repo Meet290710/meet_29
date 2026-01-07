@@ -1,0 +1,14 @@
+a = 5
+print("Initial value of a =", a)
+
+a += 5
+print("After a += 5, a =", a)
+
+a -= 5
+print("After a -= 3, a =", a)
+
+a *= 5
+print("After a *= 2, a =", a)
+
+a /= 5
+print("After a /= 4, a =", a)
